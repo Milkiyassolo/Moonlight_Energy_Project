@@ -6,6 +6,8 @@ This is an initial project focused on moonlight energy and its exploratory data 
 -  To identifying key trends and learn valuable insights
 ## Folders
 - data: Contains datasets.
+- results: Outputs such as visualizations and reports.
 - scripts: Python scripts for analysis.
 - notebooks: Jupyter notebooks for detailed EDA.
-- results: Outputs such as visualizations and reports.
+- src: source
+
